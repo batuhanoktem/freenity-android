@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "25889213677",
+    "firebase_url": "https://freenity-news.firebaseio.com",
+    "project_id": "freenity-news",
+    "storage_bucket": "freenity-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25889213677:android:cafcc3a47cb6f93d6950e4",
+        "android_client_info": {
+          "package_name": "news.freenity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25889213677-t6oqfuul7c2a2oul69sqcqttjl5ajmve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "news.freenity",
+            "certificate_hash": "9f6009c7b0c1b56f1ce3301db94d1ad8f08a2a71"
+          }
+        },
+        {
+          "client_id": "25889213677-ipt5ivhhpliepl77l04ue90sk0qddu7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEqt9wH_4DTxKxq6JFQwoaNunhm34k3M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25889213677-ipt5ivhhpliepl77l04ue90sk0qddu7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
